@@ -18,5 +18,5 @@
 
 ### **以下為列表**
 
-* Haruhikage (4)
-* Kurumi's Worries (6)
+* [Haruhikage](https://github.com/ecangte/Problems-List/blob/main/Problems/Haruhikage.md) (4)
+* [Kurumi's Worries](https://github.com/ecangte/Problems-List/blob/main/Problems/Kurumi's%20Worries.md) (6)
