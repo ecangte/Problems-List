@@ -16,10 +16,10 @@
 
 久留美為了這場戰役，讀了許多投資理財的書，並拿出現有的 30 萬日圓，充滿自信地踏入 FX 的戰場。但因為面對上漲時不願意賣出，結果錯過停利點，下跌時又不願意停損，又加上本次買入開了 100 倍槓桿，導致損失超過 10 萬日圓。
 
-![image4](imgs/Kurumi's%20Worries/image4.jpg)
-![image5](imgs/Kurumi's%20Worries/image5.jpg)
-![image6](imgs/Kurumi's%20Worries/image6.jpg)
-![image7](imgs/Kurumi's%20Worries/image7.jpg)
+![image4](imgs/Kurumi's%20Worries/image4.png)
+![image5](imgs/Kurumi's%20Worries/image5.png)
+![image6](imgs/Kurumi's%20Worries/image6.png)
+![image7](imgs/Kurumi's%20Worries/image7.png)
 圖片來源：FX 戰士久留美
 
 本次失利使久留美鬱鬱寡歡了許多天，等到回過神來才想起自己許多作業還沒交，為了順利拿到學分，久留美要以耗費最少精力的方式完成作業。
