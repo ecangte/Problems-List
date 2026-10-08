@@ -20,3 +20,4 @@
 
 * [春日影 Haruhikage](https://github.com/ecangte/Problems-List/blob/main/Problems/Haruhikage.md) (4)
 * [久留美的煩惱 Kurumi's Worries](https://github.com/ecangte/Problems-List/blob/main/Problems/Kurumi's%20Worries.md) (6)
+* [所以我放棄了音樂 That's Why I Gave Up on Music](https://github.com/ecangte/Problems-List/blob/main/Problems/That's%20Why%20I%20Gave%20Up%20on%20Music.md) (3)
