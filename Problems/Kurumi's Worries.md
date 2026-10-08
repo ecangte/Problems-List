@@ -72,7 +72,7 @@ $t_N$ $d_N$
 
 ### ***Subtask***
 
-- ***subtask1***: $10\%$ $n \le 10$
-- ***subtask2***: $90\%$ ***As statement***
+- ***subtask1***: $10\\%$ $n \le 10$
+- ***subtask2***: $90\\%$ ***As statement***
 
 
