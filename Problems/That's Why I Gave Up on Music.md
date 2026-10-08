@@ -37,12 +37,12 @@
 
 並且將這 12 個音每個給一個音名，依序如下：
 
-$$ C\ \  C♯\ \  D\ \  D♯\ \  E\ \  F\ \  F♯\ \  G\ \  G♯\ \  A\ \  A♯\ \  B$$
+$$ C,\ C♯,\ D,\ D♯,\ E,\ F,\ F♯,\ G,\ G♯,\ A,\ A♯,\ B$$
 $$ $$
 
 這12個音會繼續接到 C 無限輪迴下去，也就是說：
 
-$$\dots\ \  A♯\ \ B\ \  C\ \  C♯\ \  D\ \  D♯\ \  E\ \  F\ \  F♯\ \  G\ \  G♯\ \  A\ \  A♯\ \  B\ \ C\ \ C♯\ \  \dots$$
+$$\dots,\ A♯,\ B,\ C,\ C♯,\ D,\ D♯,\ E,\ F,\ F♯,\ G,\ G♯,\ A,\ A♯,\ B,\ C,\ C♯,\ \dots$$
 $$ $$
 
 音跟音之間有距離單位，最小的距離單位稱為
@@ -95,10 +95,10 @@ Diminished
 
 ### ***Note***
 
-* $R, T, F \in S;\  S = \{C,C♯,D,D♯,E,F,F♯,G,G♯,A,A♯,B\}$
+* $R, T, F \in S;\  S = \\{C,C♯,D,D♯,E,F,F♯,G,G♯,A,A♯,B\\}$
 ### ***Subtask***
 
-- ***subtask1***: $20\\%$ $R, T, F \in S;\  S = \{C,D,E,F,G,A,B\}$
+- ***subtask1***: $20\\%$ $R, T, F \in S;\  S = \\{C,D,E,F,G,A,B\\}$
 - ***subtask2***: $80\\%$ ***As statement***
 
 
