@@ -34,37 +34,36 @@ $F_n \ (mod \ 10^9+7)$
 ### ***Sample Input 1***
 
 ```
-
+6
 ```
 
 ### ***Sample Output 1***
 
 ```
-
+8
 ```
 
 ### ***Sample Input 2***
 
 ```
-
+100000
 ```
 
 ### ***Sample Output 2***
 
 ```
-
+911435502
 ```
 
 ### ***Note***
 
-* $1 \le n \le 10^9$
+* $1 \le n \le 10^7$
 * 所有輸入數值皆為整數
 
 ### ***Subtask***
 
 - ***subtask1***: $5\\%$ $n \le 15$
 - ***subtask2***: $15\\%$ $n \le 25$
-- ***subtask3***: $79\\%$ $n \le 10^7$ 
-- ***subtask4***: $1\\%$ ***As statement***
+- ***subtask4***: $80\\%$ ***As statement***
 
 
