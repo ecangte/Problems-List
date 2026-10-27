@@ -58,13 +58,14 @@ Incorrect
 
 ### ***Note***
 
-* $1 \le n \le 10^5$
-* $1 \le a_i \le 10^9$
+* $1 \le N, A_i \le 10^7$
 * 所有輸入數值皆為整數
 
 ### ***Subtask***
 
-- ***subtask1***: $10\\%$ $n = 1$
-- ***subtask2***: $50\\%$ ***As statement***
+- ***subtask1***: $5\\%$ $1 \le N, A_i \le 100$
+- ***subtask2***: $19\\%$ $1 \le N, A_i \le 5000$
+- ***subtask3***: $31\\%$ $1 \le N, A_i \le 2 \times 10^4$
+- ***subtask4***: $45\\%$ ***As statement***
 
 
