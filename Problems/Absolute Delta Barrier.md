@@ -54,7 +54,7 @@ No
 
 ### ***Note***
 
-* $1 \le a, b, c \le 2 \times 10^9$
+* $1 \le a, b, c \le 10^9$
 * 所有輸入數值皆為整數
 
 ### ***Subtask***
