@@ -5,7 +5,7 @@
 
 ### ***Statement***
 
-***Huang*** 是一位高中生，在 ***114年國中教育會考*** 拿到了 67 分的好成績，並考進了 ***國立彰化搞基中學（National Changhua Homo Senior High School，CHSH）*** 。
+***Huang*** 是一位高中生，在 ***114年國中教育會考*** 拿到了 67 分的好成績，並考進了第一志願 ***國立彰化搞基中學（National Changhua Homo Senior High School，CHSH）*** 。
 
 但入學一個月後，情況卻不如預期。 ***Huang*** 發現這個學校的學生都忙著搞基而不學，男同學不學就都變成了男同。除此之外，還有一群 **電神**，明明成績很好，卻總說自己沒讀書，用著強大的 **高壓電**，肆意廝殺學生。
 
@@ -85,6 +85,8 @@ Brown Black Brown Silver
 220
 100
 ```
+
+### ***Note***
 
 * $1 \le t \le 100$
 
